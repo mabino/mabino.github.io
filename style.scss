@@ -44,6 +44,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
+
 h1 {
   font-size: 28px;
   a {
@@ -235,6 +237,12 @@ nav {
 //
 // .main
 //
+
+.posts {
+h1 {
+font-size: 26px;
+}
+}
 
 .posts > .post {
   padding-bottom: 2em;
