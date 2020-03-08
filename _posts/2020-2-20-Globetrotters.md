@@ -1,5 +1,3 @@
-# Globetrotters Roster
-
 * [Money Merriweather](https://www.harlemglobetrotters.com/World-Tour/Roster/Money)
 * [Dizzy English](https://www.harlemglobetrotters.com/World-Tour/Roster/Dizzy)
 * [Dragon Taylor](https://www.harlemglobetrotters.com/World-Tour/Roster/Dragon)
