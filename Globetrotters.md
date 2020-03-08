@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Globetrotters Roster
 
 * [Money Merriweather](https://www.harlemglobetrotters.com/World-Tour/Roster/Money)
