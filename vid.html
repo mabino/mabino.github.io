@@ -85,9 +85,8 @@
             let chunks = [];
             
             start.addEventListener('click', (ev)=>{
-                console.log(mediaRecorder.state);
-                console.log('hey');
                 mediaRecorder.start();
+                console.log(mediaRecorder.state);
             })
             stop.addEventListener('click', (ev)=>{
                 mediaRecorder.stop();
